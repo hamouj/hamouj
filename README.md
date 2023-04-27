@@ -8,7 +8,7 @@
 	
 ## <picture><img src = "https://user-images.githubusercontent.com/114951691/234943030-44ddf9b9-0284-43dc-af5d-1e4ca14f7f0e.png" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://user-images.githubusercontent.com/114951691/234955731-ad747d8c-68b8-431c-af00-9e01fedfe5ea.png" width = 250px></picture>
+<picture> <img align="right" src="https://user-images.githubusercontent.com/114951691/234958437-d1280277-cb9f-45f9-bd5d-9157f6f3f722.png" width = 250px></picture>
 
 <br>
 
