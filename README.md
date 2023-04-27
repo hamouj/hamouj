@@ -8,8 +8,6 @@
 	
 ## <picture><img src = "https://user-images.githubusercontent.com/114951691/234943030-44ddf9b9-0284-43dc-af5d-1e4ca14f7f0e.png" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://user-images.githubusercontent.com/114951691/234958437-d1280277-cb9f-45f9-bd5d-9157f6f3f722.png" width = 150px></picture>
-
 <br>
 <ul style="list-style: none;font-size:26">
 	<li> Passionate Back-End Developer with an eye for detail</li>
