@@ -3,8 +3,6 @@
 <p align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&pause=1000&color=F74533&center=true&vCenter=true&width=435&lines=Back-End+Developer;Life-Long+Learner;Turing+Student;Organization+Guru" alt="Typing SVG" /></a>
 </p>
-
-<br>
 	
 ## <picture><img src = "https://user-images.githubusercontent.com/114951691/234943030-44ddf9b9-0284-43dc-af5d-1e4ca14f7f0e.png" width = 50px></picture> **About me**
 
