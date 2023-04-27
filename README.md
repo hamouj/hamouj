@@ -4,7 +4,7 @@
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&pause=1000&color=F74533&center=true&vCenter=true&width=435&lines=Back-End+Developer;Life-Long+Learner;Turing+Student;Organization+Guru" alt="Typing SVG" /></a>
 </p>
 	
-## <picture><img src = "https://media.giphy.com/media/Lpu8WcJD6xGxws7Rxg/giphy.gif" width = 80px></picture> **About me**
+## <img src="https://media.giphy.com/media/Lpu8WcJD6xGxws7Rxg/giphy.gif" width="25"><b>About me</b>
 
 <ul style="list-style: none;font-size:26">
 	<li> Passionate Back-End Developer with an eye for detail</li>
