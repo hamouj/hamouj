@@ -4,11 +4,7 @@
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&pause=1000&color=F74533&center=true&vCenter=true&width=435&lines=Back-End+Developer;Life-Long+Learner;Turing+Student;Organization+Guru" alt="Typing SVG" /></a>
 </p>
 
-
 <br>
-
-
-
 	
 ## <picture><img src = "https://user-images.githubusercontent.com/114951691/234943030-44ddf9b9-0284-43dc-af5d-1e4ca14f7f0e.png" width = 50px></picture> **About me**
 
@@ -63,12 +59,10 @@
 </p>
 
 <br>
-<br>
 
 -----
 
 <br>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
@@ -79,12 +73,8 @@
 </div>
 
 <br>
-<br>
-<br>
 
 -----
-
-<br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
