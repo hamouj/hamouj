@@ -6,17 +6,14 @@
 	
 ## <picture><img src = "https://user-images.githubusercontent.com/114951691/234943030-44ddf9b9-0284-43dc-af5d-1e4ca14f7f0e.png" width = 50px></picture> **About me**
 
-<br>
 <ul style="list-style: none;font-size:26">
 	<li> Passionate Back-End Developer with an eye for detail</li>
 	<li> Advocate for neurodiverse individuals</li>
 	<li> Country music lover</li>
 	<li> I’m currently open for an internship or a new job opportunity, this is <a href="https://github.com/hamouj/image_repo/files/11346562/BE_J_Hamou_Resume.pdf">my resume</a></li>
 </ul>
-<br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
 
 <p align="center">
 
@@ -54,26 +51,18 @@
 
 </p>
 
-<br>
-
 -----
 
-<br>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hamouj&show_icons=true&theme=radical">
 
 </div>
 
-<br>
-
 -----
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
 <div align='left'>
 
 <a href="https://www.linkedin.com/in/jasmine-hamou/" target="_blank">
@@ -89,8 +78,6 @@
 </a>
 
 </div>
-
-<br>
 
 ---
 
