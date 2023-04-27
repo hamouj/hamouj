@@ -4,7 +4,7 @@
 <h1 align="center"><b>Hi , I'm Jasmine Hamou </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&pause=1000&color=F74533&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&pause=1000&color=F74533&width=435&lines=Jasmine+Hamou,;Back-End+Developer,;Life-Long+Learner,;Organization+Guru" alt="Typing SVG" /></a>
 </p>
 
 
@@ -15,7 +15,7 @@
 	
 ## <picture><img src = "https://user-images.githubusercontent.com/114951691/234943030-44ddf9b9-0284-43dc-af5d-1e4ca14f7f0e.png" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://user-images.githubusercontent.com/114951691/234943429-0e721f3f-4c6d-4ccd-8601-def695270cc3.jpeg" width = 250px></picture>
+<picture> <img align="right" src="https://user-images.githubusercontent.com/114951691/234955731-ad747d8c-68b8-431c-af00-9e01fedfe5ea.png" width = 250px></picture>
 
 <br>
 
@@ -82,7 +82,7 @@
 <br>
 
 <div align="center">
-![Jasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamouj&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=hamouj&show_icons=true&theme=radical" width="80">
 
 </div>
 
