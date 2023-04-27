@@ -11,7 +11,7 @@
 <picture> <img align="right" src="https://user-images.githubusercontent.com/114951691/234958437-d1280277-cb9f-45f9-bd5d-9157f6f3f722.png" width = 250px></picture>
 
 <br>
-<ul style="list-style-type:none;font-size:20">
+<ul style="list-style: none;font-size:20">
 	<li>- Passionate Back-End Developer with an eye for detail</li>
 	<li>- Advocate for neurodiverse individuals</li>
 	<li>- Country music lover</li>
