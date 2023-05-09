@@ -8,7 +8,7 @@
 
 <ul style="list-style: none;font-size:26">
 	<li> Passionate Back-End Developer with an eye for detail</li>
-	<li> Advocate for neurodiverse individuals</li>
+	<li> Advocate for equity and inclusion</li>
 	<li> Country music lover</li>
 	<li> I’m currently open for an internship or a new job opportunity, this is <a href="https://github.com/hamouj/image_repo/files/11346562/BE_J_Hamou_Resume.pdf">my resume</a></li>
 </ul>
